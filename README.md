@@ -1,228 +1,54 @@
-# 🏗️ اوستایابی | مرجع معرفی متخصصان، استادکاران و پیمانکاران ساختمان ایران
+# Ostayabi (اوستایابی)
 
-<p align="center">
-  <strong>هوشمند انتخاب کنید، حرفه‌ای بسازید.</strong>
-</p>
+**Official information repository for [Ostayabi](https://ostayabi.ir/)** — a platform for discovering skilled construction professionals and building service providers in Iran.
 
-<p align="center">
-🌐 https://ostayabi.ir
-</p>
+🌐 Website: [https://ostayabi.ir/](https://ostayabi.ir/)
+🇮🇷 فارسی: [README.fa.md](README.fa.md)
 
 ---
 
-# 📖 معرفی پروژه
+## About this repository
 
-**اوستایابی** یک سامانه تخصصی در حوزه ساختمان است که با هدف ساده‌سازی فرآیند پیدا کردن متخصصان، استادکاران و پیمانکاران ساختمانی در سراسر ایران ایجاد شده است.
+This repository hosts the official, publicly available documentation and information pages for Ostayabi. It exists so that:
 
-این پلتفرم تلاش می‌کند با استفاده از فناوری، ارتباطی سریع، مطمئن و شفاف میان کارفرمایان و متخصصان صنعت ساختمان برقرار کند تا کاربران بتوانند بدون اتلاف وقت، فرد مناسب برای پروژه خود را پیدا کنند.
+- People searching for information about Ostayabi can find an accurate, canonical source.
+- The platform's purpose and scope are clearly and honestly described.
+- Anyone can review, suggest corrections to, or contribute improvements to this documentation.
 
----
+This is **not** a source-code repository. It contains descriptive content only.
 
-# 🎯 اهداف اوستایابی
+## What is Ostayabi?
 
-* ایجاد بزرگ‌ترین بانک اطلاعاتی متخصصان ساختمان ایران
-* دسترسی آسان به نیروهای فنی در سراسر کشور
-* افزایش فرصت‌های شغلی برای استادکاران
-* معرفی کسب‌وکارهای ساختمانی در فضای اینترنت
-* ارتقای کیفیت خدمات ساختمانی
-* کمک به دیجیتالی شدن صنعت ساختمان
+Ostayabi is a platform for discovering construction professionals and building service providers in Iran, covering trades such as construction, renovation, plumbing, electrical work, welding, drywall/Knauf installation, tiling, painting, masonry, and general building maintenance.
 
----
+For a fuller description, see [docs/en/about.md](docs/en/about.md).
 
-# 🚀 خدمات قابل جستجو
+## Documentation
 
-در اوستایابی ده‌ها شغل تخصصی ساختمانی معرفی شده‌اند، از جمله:
+| Document | Description |
+|---|---|
+| [About Ostayabi](docs/en/about.md) | What the platform is and who it's for |
+| [Services Covered](docs/en/services.md) | Overview of the construction trades covered |
+| [FAQ](docs/en/faq.md) | Common questions about the platform |
 
-* پیمانکار ساختمان
-* مهندس عمران
-* مهندس معماری
-* برقکار ساختمان
-* لوله‌کش ساختمان
-* جوشکار
-* آرماتوربند
-* گچکار
-* کاشی‌کار
-* سرامیک‌کار
-* سنگ‌کار
-* نقاش ساختمان
-* کابینت‌ساز
-* نصاب کناف
-* نصاب سقف کاذب
-* نصاب درب و پنجره
-* نصاب دوربین مداربسته
-* مجری تأسیسات مکانیکی
-* مجری تأسیسات برقی
-* متخصص هوشمندسازی ساختمان
-* ایزوگام‌کار
-* آسفالت‌کار
-* محوطه‌سازی و فضای سبز
-* تخریب ساختمان
-* بازسازی ساختمان
+فارسی: [درباره](docs/fa/about.md) · [خدمات](docs/fa/services.md) · [سوالات متداول](docs/fa/faq.md)
 
-و ده‌ها تخصص دیگر...
+## Contributing
+
+Corrections and improvements to this documentation are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Security
+
+To report a security concern related to this repository or the Ostayabi website, see [SECURITY.md](SECURITY.md).
+
+## License
+
+Documentation content in this repository is © Ostayabi. See [LICENSE](LICENSE) for details.
+
+## Code of Conduct
+
+This project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
-# ⭐ امکانات سامانه
-
-✅ جستجوی پیشرفته متخصصان
-
-✅ جستجو بر اساس شهر
-
-✅ جستجو بر اساس تخصص
-
-✅ مشاهده پروفایل متخصصان
-
-✅ معرفی خدمات
-
-✅ نمایش نمونه‌کار
-
-✅ ارتباط مستقیم با متخصص
-
-✅ انتشار مقالات آموزشی ساختمان
-
-✅ صفحات بهینه‌شده برای موتورهای جستجو (SEO)
-
-✅ طراحی واکنش‌گرا برای موبایل و دسکتاپ
-
-✅ سرعت بارگذاری بالا
-
----
-
-# 📚 وبلاگ تخصصی ساختمان
-
-در بخش مقالات اوستایابی، مطالب آموزشی و تخصصی متنوعی منتشر می‌شود، از جمله:
-
-* آموزش ساختمان‌سازی
-* هزینه ساخت ساختمان
-* قیمت مصالح ساختمانی
-* نکات بازسازی ساختمان
-* ترفندهای نگهداری ساختمان
-* آموزش برق ساختمان
-* آموزش لوله‌کشی
-* جوشکاری
-* معماری
-* عمران
-* قوانین ساخت‌وساز
-* اخبار صنعت ساختمان
-
-مطالعه مقالات:
-
-https://ostayabi.ir/blog/
-
----
-
-# 👷 مناسب چه کسانی است؟
-
-اوستایابی برای افراد و کسب‌وکارهای زیر طراحی شده است:
-
-* مالکان ساختمان
-* کارفرمایان
-* پیمانکاران
-* مهندسان عمران
-* مهندسان معماری
-* شرکت‌های ساختمانی
-* مشاوران پروژه
-* سرمایه‌گذاران حوزه مسکن
-* مدیران ساختمان
-* تولیدکنندگان مصالح ساختمانی
-* استادکاران و نیروهای فنی
-
----
-
-# 💡 چرا اوستایابی؟
-
-پیدا کردن یک متخصص قابل اعتماد همیشه یکی از چالش‌های پروژه‌های ساختمانی بوده است.
-
-اوستایابی تلاش می‌کند این مسیر را ساده‌تر کند تا کاربران بتوانند با صرف زمان کمتر، متخصص مناسب پروژه خود را پیدا کرده و پروژه‌های ساختمانی را با کیفیت بیشتری اجرا کنند.
-
-مزایای استفاده از اوستایابی:
-
-* دسترسی سریع به متخصصان
-* معرفی کسب‌وکارهای ساختمانی
-* افزایش دیده‌شدن متخصصان در اینترنت
-* دسترسی به مطالب آموزشی
-* کاهش زمان جستجوی نیروهای فنی
-* توسعه ارتباط میان کارفرما و متخصص
-
----
-
-# 🔗 لینک‌های مفید
-
-### 🌐 وب‌سایت
-
-https://ostayabi.ir
-
-### 👷 جستجوی متخصصان
-
-https://ostayabi.ir/search-result/
-
-### 📰 مقالات آموزشی
-
-https://ostayabi.ir/blog/
-
-### ✍️ ثبت‌نام متخصصان
-
-https://ostayabi.ir/register/
-
----
-
-# 🛠 فناوری‌های استفاده‌شده
-
-سامانه اوستایابی با استفاده از فناوری‌های زیر توسعه یافته است:
-
-* WordPress
-* PHP
-* MySQL
-* HTML5
-* CSS3
-* JavaScript
-* Elementor
-
----
-
-# 🤝 مشارکت
-
-اگر ایده‌ای برای توسعه اوستایابی، بهبود خدمات یا تولید محتوای آموزشی دارید، خوشحال می‌شویم نظرات و پیشنهادهای خود را از طریق GitHub یا وب‌سایت با ما در میان بگذارید.
-
----
-
-# ⭐ حمایت از پروژه
-
-اگر این پروژه برای شما مفید بوده است:
-
-⭐ به این Repository ستاره بدهید.
-
-🔄 آن را با دیگران به اشتراک بگذارید.
-
-🌐 از وب‌سایت اوستایابی بازدید کنید.
-
-📚 مقالات آموزشی را مطالعه کنید.
-
-👷 اوستایابی را به متخصصان ساختمان معرفی کنید.
-
----
-
-# 📈 کلیدواژه‌ها
-
-اوستایابی • استادکار ساختمان • پیمانکار ساختمان • متخصص ساختمان • برقکار ساختمان • لوله‌کش ساختمان • جوشکار • نقاش ساختمان • کاشی‌کار • کابینت‌ساز • عمران • معماری • خدمات ساختمانی • بازسازی ساختمان • ساخت‌وساز • بازار ساختمان • مشاغل ساختمانی • بانک اطلاعات متخصصان • صنعت ساختمان ایران
-
----
-
-# 📞 ارتباط با ما
-
-🌐 وب‌سایت رسمی:
-
-https://ostayabi.ir
-
-📚 وبلاگ:
-
-https://ostayabi.ir/blog/
-
----
-
-## ❤️ شعار اوستایابی
-
-**«اوستایابی؛ انتخاب هوشمند برای ساختن بهتر.»**
-
-با اوستایابی، پیدا کردن متخصص ساختمان سریع‌تر، مطمئن‌تر و حرفه‌ای‌تر خواهد بود.
+**Suggested GitHub topics:** `ostayabi` `construction` `construction-services` `building-services` `iran` `documentation`
